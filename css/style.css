@@ -1,0 +1,62 @@
+
+li{
+    list-style: none;
+}
+
+.title{
+    text-align: center;
+}
+
+.form-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.partsImage li img{
+    width: 200px;
+    height: 200px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.subform-flex{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.subform-flex p{
+    text-align: center;
+}
+
+
+.submit{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.order-table{
+    width: 100%;
+    text-align: center;
+}
+
+.order-table tr th{
+    border: 1px solid black;
+    width: 33%;
+}
+
+.order-table tr td{
+    border: 1px solid black;
+}
+
+.order-table img{
+    width: 100px;
+    height: 100px;
+}
+

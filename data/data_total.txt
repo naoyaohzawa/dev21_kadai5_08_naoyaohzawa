@@ -1,0 +1,1 @@
+{"sylinder":"1","spare_sylinder":"2","piston":"0","coil":"0","coil2":"8"}

@@ -1,0 +1,26 @@
+ 
+.title{
+    text-align: center;
+} 
+
+.order-table{
+    width: 100%;
+    text-align: center;
+}
+
+.order-table tr th{
+    border: 1px solid black;
+    width: 33%;
+}
+
+.order-table tr td{
+    border: 1px solid black;
+}
+
+.order-table img{
+    width: 50px;
+    height: 50px;
+}
+
+
+
